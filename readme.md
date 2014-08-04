@@ -13,6 +13,7 @@ A visualisation of a horizontally panning timeline divided into months, starting
 1. If it was the month the election was held in, the result of the general election in a data box with various stats.
 2. If not, poll data for that month where available, otherwise interpolated between the last available poll or election result and the next available. 
 
+![](timeline.png)
 
 I don't have a plan. I'm just going to pick away at it when I have time. 
 

@@ -1,0 +1,42 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2043" measuredH="351" mockupW="1810" mockupH="242">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="234" y="324" w="905" h="27" measuredW="51" measuredH="27" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1996</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="234" y="299" w="905" h="27" measuredW="904" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>9</selectedIndex>
+        <text>January%2C%20February%2C%20March%2C%20April%2C%20May%2C%20June%2C%20July%2C%20August%2C%20September%2C%20%20%20%20%20%20%20%20%20%20%20%20%20October%20%20%20%20%20%20%20%20%20%20%20%20%2C%20November%2C%20December</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::LineChart" x="233" y="124" w="906" h="175" measuredW="187" measuredH="175" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::StickyNote" x="804" y="109" w="164" h="173" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cool%20data%20box%0Awith%20election%20%0Aresults%20and%20%0Ainteresting%20%0Awidgets%20and%20etc.</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::PieChart" x="903" y="210" w="43" h="72" measuredW="180" measuredH="180" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::BarChart" x="818" y="195" w="79" h="66" measuredW="187" measuredH="175" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="1138" y="324" w="905" h="27" measuredW="51" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1996</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1138" y="299" w="905" h="27" measuredW="904" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>10</selectedIndex>
+        <text>January%2C%20February%2C%20March%2C%20April%2C%20May%2C%20June%2C%20July%2C%20August%2C%20September%2C%20October%2C%20%20%20%20%20%20%20%20%20%20%20%20%20November%20%20%20%20%20%20%20%20%20%20%20%20%2C%20December</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::LineChart" x="1137" y="124" w="906" h="175" measuredW="187" measuredH="175" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::StickyNote" x="1792" y="109" w="164" h="173" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cool%20data%20box%0Awith%20election%20%0Aresults%20and%20%0Ainteresting%20%0Awidgets%20and%20etc.</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::PieChart" x="1807" y="210" w="43" h="72" measuredW="180" measuredH="180" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::BarChart" x="1722" y="195" w="79" h="66" measuredW="187" measuredH="175" zOrder="11" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
