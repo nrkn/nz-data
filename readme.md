@@ -19,13 +19,13 @@ I don't have a plan. I'm just going to pick away at it when I have time.
 
 ##Currently contains
 
-Currently minimal election data in .json format from the first two MMP elections, 1996 and 1999.
+All I have so far is the 'minimum possible to be useful' election data in .json format for the first two MMP elections, 1996 and 1999.
 
 ##It would be really nice to get pull requests with:
 
 - More years, if I'm working on one I'll check it in as an empty file before starting so you know not to bother.
-- Candidate and electorate seat data for each year   
-- Census data (so you can compare how many people 18+ and how many people enrolled etc.)
+- Candidate and electorate seat data for each year
+ - Census data (so you can compare how many people 18+ and how many people enrolled etc.)
 - Opinion poll results 
 
 If you want to add some election result data, you can get it from Wikipedia:
