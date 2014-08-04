@@ -1,91 +1,91 @@
 {
-  1999: {    
-    date: '27/11/1999',
-    parliamentNumber: 46,
-    wikiSlug: 'New_Zealand_general_election,_1999',
-    registered: 2509365,
-    results: {
+  '1999': {    
+    'date': '27/11/1999',
+    'parliamentNumber': 46,
+    'wikiSlug': 'New_Zealand_general_election,_1999',
+    'registered': 2509365,
+    'results': {
       'National': {
-        party: 629932,
-        electorates: 22,
-        list: 17
+        'party': 629932,
+        'electorates': 22,
+        'list': 17
       },
       'Labour': {
-        party: 800199,
-        electorates: 41,
-        list: 8
+        'party': 800199,
+        'electorates': 41,
+        'list': 8
       },
       'NZ First': {
-        party: 87926,
-        electorates: 1,
-        list: 4
+        'party': 87926,
+        'electorates': 1,
+        'list': 4
       },
       'Alliance': {
-        party: 159859,
-        electorates: 1,
-        list: 9
+        'party': 159859,
+        'electorates': 1,
+        'list': 9
       },
       'Act': {
-        party: 145493,
-        electorates: 0,
-        list: 9
+        'party': 145493,
+        'electorates': 0,
+        'list': 9
       },
       'United': {
-        party: 11065,
-        electorates: 1
+        'party': 11065,
+        'electorates': 1
       },
       'Green': {
-        party: 106560,
-        electorates: 1,
-        list: 6
+        'party': 106560,
+        'electorates': 1,
+        'list': 6
       },
       'Christian Heritage New Zealand': {
-        party: 49154
+        'party': 49154
       },
       'Future New Zealand': {
-        party: 23033
+        'party': 23033
       },
       'Legalise Cannabis': {
-        party: 22687
+        'party': 22687
       },
       'Libertarianz': {
-        party: 5949
+        'party': 5949
       },
       'Mana Māori': {
-        party: 5190
+        'party': 5190
       },
       'Mauri Pacific': {
-        party: 4008
+        'party': 4008
       },
       'Animals First': {
-        party: 3244
+        'party': 3244
       },
       'McGillicuddy Serious Party': {
-        party: 3191
+        'party': 3191
       },
       'South Island Party': {
-        party: 2912
+        'party': 2912
       },
       'Natural Law': {
-        party: 1712
+        'party': 1712
       },
       'One New Zealand': {
-        party: 1311
+        'party': 1311
       },
       'NMP': {
-        party: 936
+        'party': 936
       },
       'Freedom Movement': {
-        party: 454
+        'party': 454
       },
       'People\'s Choice': {
-        party: 387
+        'party': 387
       },
       'Republican Party': {
-        party: 292
+        'party': 292
       }      
     },
-    informal: 19887,
-    disallowedSpecial: 41884
+    'informal': 19887,
+    'disallowedSpecial': 41884
   }
 }

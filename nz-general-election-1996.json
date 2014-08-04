@@ -1,86 +1,86 @@
 {
-  1996: {    
-    date: '12/10/1996',
-    parliamentNumber: 45,
-    wikiSlug: 'New_Zealand_general_election,_1996',
-    registered: 2418587,
-    results: {
+  '1996': {    
+    'date': '12/10/1996',
+    'parliamentNumber': 45,
+    'wikiSlug': 'New_Zealand_general_election,_1996',
+    'registered': 2418587,
+    'results': {
       'National': {
-        party: 701315,
-        electorates: 30,
-        list: 14
+        'party': 701315,
+        'electorates': 30,
+        'list': 14
       },
       'Labour': {
-        party: 584159,
-        electorates: 26,
-        list: 11
+        'party': 584159,
+        'electorates': 26,
+        'list': 11
       },
       'NZ First': {
-        party: 276603,
-        electorates: 6,
-        list: 11
+        'party': 276603,
+        'electorates': 6,
+        'list': 11
       },
       'Alliance': {
-        party: 209347,
-        electorates: 1,
-        list: 12
+        'party': 209347,
+        'electorates': 1,
+        'list': 12
       },
       'Act': {
-        party: 126442,
-        electorates: 1,
-        list: 7
+        'party': 126442,
+        'electorates': 1,
+        'list': 7
       },
       'United': {
-        party: 18245,
-        electorates: 1
+        'party': 18245,
+        'electorates': 1
       },
       'Christian Colalition': {
-        party: 89716
+        'party': 89716
       },
       'Legalise Cannabis': {
-        party: 34398
+        'party': 34398
       },
       'McGillicuddy Serious Party': {
-        party: 5990
+        'party': 5990
       },
       'Progressive Green': {
-        party: 5288
+        'party': 5288
       },
       'Mana Māori': {
-        party: 4070
+        'party': 4070
       },
       'Animals First': {
-        party: 3543
+        'party': 3543
       },
       'Natural Law': {
-        party: 3189
+        'party': 3189
       },
       'Ethnic Minority Party': {
-        party: 2514
+        'party': 2514
       },
       'Green Society': {
-        party: 2363
+        'party': 2363
       },
       'Conservatives': {
-        party: 1431
+        'party': 1431
       },
       'Superannuitants and Youth': {
-        party: 1244
+        'party': 1244
       },
       'Advance New Zealand': {
-        party: 949
+        'party': 949
       },
       'Libertarianz': {
-        party: 671
+        'party': 671
       },
       'Asia Pacific United': {
-        party: 478
+        'party': 478
       },
       'Te Tawharau': {
-        party: 404
+        'party': 404
       }
     },
-    informal: 8183,
-    disallowedSpecial: 54633
+    'informal': 8183,
+    'disallowedSpecial': 54633
   }
 }
