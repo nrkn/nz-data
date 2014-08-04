@@ -33,7 +33,7 @@ If you want to add some election result data, you can get it from Wikipedia:
 - 1999 (done)
 - [2002](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2002)
 - [2005](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2005)
-- [2008](http://http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008)
+- [2008](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008)
 - [2011](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2011)
 
 ##Example:
