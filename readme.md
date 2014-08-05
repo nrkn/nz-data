@@ -4,19 +4,17 @@ Although statistical data about the census, elections etc. is freely available o
 
 Political parties campaigning, media outlets and analysts etc. have the resources to do this - for everyone else it's time-consuming and tedious.
 
-I'd like to try to remove this barrier to entry so that everyone can make use of it; to better make informed decisions, or to create infographics, web apps and anything else it might be useful for.
+We'd like to try to remove this barrier to entry so that everyone can make use of it; to better make informed decisions, or to create infographics, web apps and anything else it might be useful for.
 
-I'm trying to collate this data and make it freely and openly available.
+Initially we're focussing on just the election results from the MMP general elections held to date.
 
-Initially I'm focussing on just the election results from the MMP general elections held to date.
-
-I'm particularly interested in:
+To start with:
 
 - Election results
 - Election polling
 - Census data
 
-I'm just going to pick away at it when I have time, so contributions would be extremely welcome, either of normalised data in a useful format such as json, xml or csv, or pointers to usable data on the web.  
+We're just going to pick away at it when we have time, so contributions would be extremely welcome, either of normalised data in a useful format such as json, xml or csv, or pointers to usable data on the web.  
 
 You can help by either getting in touch with me via [email](mailto:nrkn.com@gmail.com) or sending me a pull request on Github.
 
@@ -30,7 +28,8 @@ You can help by either getting in touch with me via [email](mailto:nrkn.com@gmai
 - [2002](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2002.json)
 - [2005](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2005.json)
 - [2008](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2008.json)
-- [1996-2008 Combined](https://github.com/nrkn/nz-data/blob/master/nz-general-elections.json)
+- [2011](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2011.json)
+- [1996-2011 Combined](https://github.com/nrkn/nz-data/blob/master/nz-general-elections.json)
 
 ####CSV format
 - [1996](https://github.com/nrkn/nz-data/blob/master/nz-general-election-1996-results.csv)
@@ -38,7 +37,8 @@ You can help by either getting in touch with me via [email](mailto:nrkn.com@gmai
 - [2002](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2002-results.csv)
 - [2005](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2005-results.csv)
 - [2008](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2008-results.csv)
-- [1996-2008 Combined (metadata only)](https://github.com/nrkn/nz-data/blob/master/nz-general-elections-meta.csv)
+- [2011](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2011-results.csv)
+- [1996-2011 Combined (metadata only)](https://github.com/nrkn/nz-data/blob/master/nz-general-elections-meta.csv)
 
 ##Resources & Data Sources
 
@@ -52,18 +52,17 @@ You can help by either getting in touch with me via [email](mailto:nrkn.com@gmai
 
 ##It would be really nice to get pull requests with:
 
-- More years, if I'm working on one I'll commit it as an empty file before starting so you know not to bother.
 - Candidate and electorate seat data for each year
 - Census data (ie. how many people were 18+ and therefore eligible but didn't enrol)
 - Opinion poll results 
 
-If you want to add some election result data, you can get it from Wikipedia:
-- [1996](http://en.wikipedia.org/wiki/New_Zealand_general_election,_1996) (done)
-- [1999](http://en.wikipedia.org/wiki/New_Zealand_general_election,_1999) (done)
-- [2002](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2002) (done)
-- [2005](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2005) (done)
-- [2008](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008) (done)
-- [2011](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2011)
+The next thing we'll be doing is adding the detailed voting data, from:
+
+http://www.electionresults.govt.nz/electionresults_1996/pollingplaces.html
+
+Sadly these are all PDFs containing images scanned from paper, they'll need to be OCR'ed and verified :/
+
+Perhaps they are available elsewhere?
 
 ##Example:
 
