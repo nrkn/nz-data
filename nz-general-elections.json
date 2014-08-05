@@ -6,78 +6,78 @@
     "registered": 2418587,
     "results": {
       "National": {
-        "party": 701315,
-        "electorates": 30,
-        "list": 14
+        "partyVote": 701315,
+        "electorateSeats": 30,
+        "listSeats": 14
       },
       "Labour": {
-        "party": 584159,
-        "electorates": 26,
-        "list": 11
+        "partyVote": 584159,
+        "electorateSeats": 26,
+        "listSeats": 11
       },
       "NZ First": {
-        "party": 276603,
-        "electorates": 6,
-        "list": 11
+        "partyVote": 276603,
+        "electorateSeats": 6,
+        "listSeats": 11
       },
       "Alliance": {
-        "party": 209347,
-        "electorates": 1,
-        "list": 12
+        "partyVote": 209347,
+        "electorateSeats": 1,
+        "listSeats": 12
       },
       "ACT": {
-        "party": 126442,
-        "electorates": 1,
-        "list": 7
+        "partyVote": 126442,
+        "electorateSeats": 1,
+        "listSeats": 7
       },
       "United": {
-        "party": 18245,
-        "electorates": 1
+        "partyVote": 18245,
+        "electorateSeats": 1
       },
       "Christian Colalition": {
-        "party": 89716
+        "partyVote": 89716
       },
       "Legalise Cannabis": {
-        "party": 34398
+        "partyVote": 34398
       },
       "McGillicuddy Serious Party": {
-        "party": 5990
+        "partyVote": 5990
       },
       "Progressive Green": {
-        "party": 5288
+        "partyVote": 5288
       },
       "Mana Māori": {
-        "party": 4070
+        "partyVote": 4070
       },
       "Animals First": {
-        "party": 3543
+        "partyVote": 3543
       },
       "Natural Law": {
-        "party": 3189
+        "partyVote": 3189
       },
       "Ethnic Minority Party": {
-        "party": 2514
+        "partyVote": 2514
       },
       "Green Society": {
-        "party": 2363
+        "partyVote": 2363
       },
       "Conservatives": {
-        "party": 1431
+        "partyVote": 1431
       },
       "Superannuitants and Youth": {
-        "party": 1244
+        "partyVote": 1244
       },
       "Advance New Zealand": {
-        "party": 949
+        "partyVote": 949
       },
       "Libertarianz": {
-        "party": 671
+        "partyVote": 671
       },
       "Asia Pacific United": {
-        "party": 478
+        "partyVote": 478
       },
       "Te Tawharau": {
-        "party": 404
+        "partyVote": 404
       }
     },
     "informal": 8183,
@@ -90,83 +90,83 @@
     "registered": 2509365,
     "results": {
       "Labour": {
-        "party": 800199,
-        "electorates": 41,
-        "list": 8
+        "partyVote": 800199,
+        "electorateSeats": 41,
+        "listSeats": 8
       },
       "National": {
-        "party": 629932,
-        "electorates": 22,
-        "list": 17
+        "partyVote": 629932,
+        "electorateSeats": 22,
+        "listSeats": 17
       },
       "Alliance": {
-        "party": 159859,
-        "electorates": 1,
-        "list": 9
+        "partyVote": 159859,
+        "electorateSeats": 1,
+        "listSeats": 9
       },
       "ACT": {
-        "party": 145493,
-        "electorates": 0,
-        "list": 9
+        "partyVote": 145493,
+        "electorateSeats": 0,
+        "listSeats": 9
       },
       "Green": {
-        "party": 106560,
-        "electorates": 1,
-        "list": 6
+        "partyVote": 106560,
+        "electorateSeats": 1,
+        "listSeats": 6
       },
       "NZ First": {
-        "party": 87926,
-        "electorates": 1,
-        "list": 4
+        "partyVote": 87926,
+        "electorateSeats": 1,
+        "listSeats": 4
       },
       "United": {
-        "party": 11065,
-        "electorates": 1
+        "partyVote": 11065,
+        "electorateSeats": 1
       },
       "Christian Heritage New Zealand": {
-        "party": 49154
+        "partyVote": 49154
       },
       "Future New Zealand": {
-        "party": 23033
+        "partyVote": 23033
       },
       "Legalise Cannabis": {
-        "party": 22687
+        "partyVote": 22687
       },
       "Libertarianz": {
-        "party": 5949
+        "partyVote": 5949
       },
       "Mana Māori": {
-        "party": 5190
+        "partyVote": 5190
       },
       "Mauri Pacific": {
-        "party": 4008
+        "partyVote": 4008
       },
       "Animals First": {
-        "party": 3244
+        "partyVote": 3244
       },
       "McGillicuddy Serious Party": {
-        "party": 3191
+        "partyVote": 3191
       },
       "South Island Party": {
-        "party": 2912
+        "partyVote": 2912
       },
       "Natural Law": {
-        "party": 1712
+        "partyVote": 1712
       },
       "One New Zealand": {
-        "party": 1311
+        "partyVote": 1311
       },
       "NMP": {
-        "party": 936
+        "partyVote": 936
       },
       "Freedom Movement": {
-        "party": 454
+        "partyVote": 454
       },
       "People's Choice": {
-        "party": 387
+        "partyVote": 387
       },
       "Republican Party": {
-        "party": 292
+        "partyVote": 292
       }
     },
     "informal": 19887,
@@ -179,60 +179,60 @@
     "registered": 2670030,
     "results": {
       "Labour": {
-        "party": 838219,
-        "electorates": 45,
-        "list": 7
+        "partyVote": 838219,
+        "electorateSeats": 45,
+        "listSeats": 7
       },
       "National": {
-        "party": 425310,
-        "electorates": 21,
-        "list": 6
+        "partyVote": 425310,
+        "electorateSeats": 21,
+        "listSeats": 6
       },
       "NZ First": {
-        "party": 210912,
-        "electorates": 1,
-        "list": 12
+        "partyVote": 210912,
+        "electorateSeats": 1,
+        "listSeats": 12
       },
       "ACT": {
-        "party": 145078,
-        "electorates": 0,
-        "list": 9
+        "partyVote": 145078,
+        "electorateSeats": 0,
+        "listSeats": 9
       },
       "Green": {
-        "party": 142250,
-        "electorates": 0,
-        "list": 9
+        "partyVote": 142250,
+        "electorateSeats": 0,
+        "listSeats": 9
       },
       "United Future": {
-        "party": 135918,
-        "electorates": 1,
-        "list": 7
+        "partyVote": 135918,
+        "electorateSeats": 1,
+        "listSeats": 7
       },
       "Progressive": {
-        "party": 34542,
-        "electorate": 1,
-        "list": 1
+        "partyVote": 34542,
+        "electorateSeats": 1,
+        "listSeats": 1
       },
       "Christian Heritage": {
-        "party": 27492
+        "partyVote": 27492
       },
       "Outdoor Recreation": {
-        "party": 25985
+        "partyVote": 25985
       },
       "Alliance": {
-        "party": 25888
+        "partyVote": 25888
       },
       "Legalise Cannabis": {
-        "party": 12987
+        "partyVote": 12987
       },
       "Mana Māori": {
-        "party": 4980
+        "partyVote": 4980
       },
       "One New Zealand": {
-        "party": 1782
+        "partyVote": 1782
       },
       "NMP": {
-        "party": 274
+        "partyVote": 274
       }
     },
     "informal": 8631,

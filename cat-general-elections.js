@@ -1,36 +1,29 @@
-// read all the year data json files and concatenate them into a single json file
-
 var fs = require( 'fs' );
-var keys = Object.keys || require( 'object-keys' );
+var extend = require( 'extend' );
 
-// year data json filename pattern
-var electionDataFilenameRegex = /nz-general-election-(\d{4})\.json/;
+// read all the year data json files and concatenate them into a single json file
+(function(){
+  'use strict';
 
-// get the filenames in the current directory that match the pattern
-var filenames = fs.readdirSync( './' ).filter( function( filename ){
-  return electionDataFilenameRegex.test( filename );
-});
+  // year data json filename pattern
+  var electionDataFilenameRegex = /nz-general-election-(\d{4})\.json/;
 
-// read those files into an array
-var yearJson = filenames.map( function( filename ){ 
-  return fs.readFileSync( filename );
-});
+  // new object to hold combined data
+  var data = {};
+  
+  fs.readdirSync( './' )
+    // get the filenames in the current directory that match the pattern
+    .filter( function( filename ){
+      return electionDataFilenameRegex.test( filename );
+    })
+    // read each file and copy the data for each year into a single object
+    .forEach( function( filename ){
+      extend( data, JSON.parse( fs.readFileSync( filename ) ) );
+    });
+  
+  // convert new object to json
+  var json = JSON.stringify( data, null, 2 );
 
-// copy the data for each year into a new object
-var data = {};
-yearJson.forEach( function( json ){
-  var obj = JSON.parse( json );
-  var year = getYear( obj );
-  data[ year ] = obj[ year ];
-});
-
-// convert that object to json
-var json = JSON.stringify( data, null, 2 );
-
-// write the combined json to disk
-fs.writeFileSync( 'nz-general-elections.json', json );
-
-// the year data is always an object with a single key, that key being a year
-function getYear( obj ){
-  return parseInt( keys( obj )[ 0 ], 10 );
-}
+  // write the combined json to disk
+  fs.writeFileSync( 'nz-general-elections.json', json );
+})();

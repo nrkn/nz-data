@@ -6,60 +6,60 @@
     "registered": 2670030,
     "results": {
       "Labour": {
-        "party": 838219,
-        "electorates": 45,
-        "list": 7
+        "partyVote": 838219,
+        "electorateSeats": 45,
+        "listSeats": 7
       },
       "National": {
-        "party": 425310,
-        "electorates": 21,
-        "list": 6
+        "partyVote": 425310,
+        "electorateSeats": 21,
+        "listSeats": 6
       },
       "NZ First": {
-        "party": 210912,
-        "electorates": 1,
-        "list": 12
+        "partyVote": 210912,
+        "electorateSeats": 1,
+        "listSeats": 12
       },
       "ACT": {
-        "party": 145078,
-        "electorates": 0,
-        "list": 9
+        "partyVote": 145078,
+        "electorateSeats": 0,
+        "listSeats": 9
       },
       "Green": {
-        "party": 142250,
-        "electorates": 0,
-        "list": 9
+        "partyVote": 142250,
+        "electorateSeats": 0,
+        "listSeats": 9
       },
       "United Future": {
-        "party": 135918,
-        "electorates": 1,
-        "list": 7
+        "partyVote": 135918,
+        "electorateSeats": 1,
+        "listSeats": 7
       },
       "Progressive": {
-        "party": 34542,
-        "electorate": 1,
-        "list": 1
+        "partyVote": 34542,
+        "electorateSeats": 1,
+        "listSeats": 1
       },
       "Christian Heritage": {
-        "party": 27492
+        "partyVote": 27492
       },
       "Outdoor Recreation": {
-        "party": 25985
+        "partyVote": 25985
       },      
       "Alliance": {
-        "party": 25888
+        "partyVote": 25888
       },
       "Legalise Cannabis": {
-        "party": 12987
+        "partyVote": 12987
       },
       "Mana Māori": {
-        "party": 4980
+        "partyVote": 4980
       },
       "One New Zealand": {
-        "party": 1782
+        "partyVote": 1782
       },
       "NMP": {
-        "party": 274
+        "partyVote": 274
       }
     },
     "informal": 8631,

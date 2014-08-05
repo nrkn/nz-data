@@ -6,78 +6,78 @@
     "registered": 2418587,
     "results": {
       "National": {
-        "party": 701315,
-        "electorates": 30,
-        "list": 14
+        "partyVote": 701315,
+        "electorateSeats": 30,
+        "listSeats": 14
       },
       "Labour": {
-        "party": 584159,
-        "electorates": 26,
-        "list": 11
+        "partyVote": 584159,
+        "electorateSeats": 26,
+        "listSeats": 11
       },
       "NZ First": {
-        "party": 276603,
-        "electorates": 6,
-        "list": 11
+        "partyVote": 276603,
+        "electorateSeats": 6,
+        "listSeats": 11
       },
       "Alliance": {
-        "party": 209347,
-        "electorates": 1,
-        "list": 12
+        "partyVote": 209347,
+        "electorateSeats": 1,
+        "listSeats": 12
       },
       "ACT": {
-        "party": 126442,
-        "electorates": 1,
-        "list": 7
+        "partyVote": 126442,
+        "electorateSeats": 1,
+        "listSeats": 7
       },
       "United": {
-        "party": 18245,
-        "electorates": 1
+        "partyVote": 18245,
+        "electorateSeats": 1
       },
       "Christian Colalition": {
-        "party": 89716
+        "partyVote": 89716
       },
       "Legalise Cannabis": {
-        "party": 34398
+        "partyVote": 34398
       },
       "McGillicuddy Serious Party": {
-        "party": 5990
+        "partyVote": 5990
       },
       "Progressive Green": {
-        "party": 5288
+        "partyVote": 5288
       },
       "Mana Māori": {
-        "party": 4070
+        "partyVote": 4070
       },
       "Animals First": {
-        "party": 3543
+        "partyVote": 3543
       },
       "Natural Law": {
-        "party": 3189
+        "partyVote": 3189
       },
       "Ethnic Minority Party": {
-        "party": 2514
+        "partyVote": 2514
       },
       "Green Society": {
-        "party": 2363
+        "partyVote": 2363
       },
       "Conservatives": {
-        "party": 1431
+        "partyVote": 1431
       },
       "Superannuitants and Youth": {
-        "party": 1244
+        "partyVote": 1244
       },
       "Advance New Zealand": {
-        "party": 949
+        "partyVote": 949
       },
       "Libertarianz": {
-        "party": 671
+        "partyVote": 671
       },
       "Asia Pacific United": {
-        "party": 478
+        "partyVote": 478
       },
       "Te Tawharau": {
-        "party": 404
+        "partyVote": 404
       }
     },
     "informal": 8183,
