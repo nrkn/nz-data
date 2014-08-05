@@ -19,7 +19,7 @@ I don't have a plan. I'm just going to pick away at it when I have time.
 
 ##Currently contains
 
-All I have so far is the 'minimum possible to be useful' election data in .json format for the first two MMP elections, 1996 and 1999.
+All I have so far is the 'minimum possible to be useful' election data in .json format for the first three MMP elections; 1996, 1999, 2002.
 
 ##It would be really nice to get pull requests with:
 
