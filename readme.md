@@ -1,10 +1,14 @@
 #NZ data
 
-I was thinking that it would be useful to have a good source of statistical data about NZ in one place, freely available to anybody who'd like to use it for infographics, web applications or anything else it might be useful for.
+Although statistical data about the census, elections etc. is freely available on Government websites, it requires a considerable amount to effort to find, collate and put into a useful form.
 
-My experience of trying to find data from elections, census etc. is that it's spread across a number of different government websites, can be hard to find, poorly described, in proprietary formats, scanned paper documents that aren't readable without error prone OCR etc.
+Political parties campaigning, media outlets and analysts etc. have the resources to do this - for everyone else it's time-consuming and tedious.
 
-I'm trying to slowly collate some of these things in a more useful and ubiquitous form, .json, which can then be either used directly in software or translated to other useful formats such as csv or xml. 
+I'd like to try to remove this barrier to entry so that everyone can make use of it; to better make informed decisions, or to create infographics, web apps and anything else it might be useful for.
+
+I'm trying to collate this data and make it freely and openly available.
+
+Initially I'm focussing on just the election results from the MMP general elections held to date.
 
 I'm particularly interested in:
 
