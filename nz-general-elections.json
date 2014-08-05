@@ -1,0 +1,241 @@
+{
+  "1996": {
+    "date": "12/10/1996",
+    "parliamentNumber": 45,
+    "wikiSlug": "New_Zealand_general_election,_1996",
+    "registered": 2418587,
+    "results": {
+      "National": {
+        "party": 701315,
+        "electorates": 30,
+        "list": 14
+      },
+      "Labour": {
+        "party": 584159,
+        "electorates": 26,
+        "list": 11
+      },
+      "NZ First": {
+        "party": 276603,
+        "electorates": 6,
+        "list": 11
+      },
+      "Alliance": {
+        "party": 209347,
+        "electorates": 1,
+        "list": 12
+      },
+      "ACT": {
+        "party": 126442,
+        "electorates": 1,
+        "list": 7
+      },
+      "United": {
+        "party": 18245,
+        "electorates": 1
+      },
+      "Christian Colalition": {
+        "party": 89716
+      },
+      "Legalise Cannabis": {
+        "party": 34398
+      },
+      "McGillicuddy Serious Party": {
+        "party": 5990
+      },
+      "Progressive Green": {
+        "party": 5288
+      },
+      "Mana Māori": {
+        "party": 4070
+      },
+      "Animals First": {
+        "party": 3543
+      },
+      "Natural Law": {
+        "party": 3189
+      },
+      "Ethnic Minority Party": {
+        "party": 2514
+      },
+      "Green Society": {
+        "party": 2363
+      },
+      "Conservatives": {
+        "party": 1431
+      },
+      "Superannuitants and Youth": {
+        "party": 1244
+      },
+      "Advance New Zealand": {
+        "party": 949
+      },
+      "Libertarianz": {
+        "party": 671
+      },
+      "Asia Pacific United": {
+        "party": 478
+      },
+      "Te Tawharau": {
+        "party": 404
+      }
+    },
+    "informal": 8183,
+    "disallowedSpecial": 54633
+  },
+  "1999": {
+    "date": "27/11/1999",
+    "parliamentNumber": 46,
+    "wikiSlug": "New_Zealand_general_election,_1999",
+    "registered": 2509365,
+    "results": {
+      "Labour": {
+        "party": 800199,
+        "electorates": 41,
+        "list": 8
+      },
+      "National": {
+        "party": 629932,
+        "electorates": 22,
+        "list": 17
+      },
+      "Alliance": {
+        "party": 159859,
+        "electorates": 1,
+        "list": 9
+      },
+      "ACT": {
+        "party": 145493,
+        "electorates": 0,
+        "list": 9
+      },
+      "Green": {
+        "party": 106560,
+        "electorates": 1,
+        "list": 6
+      },
+      "NZ First": {
+        "party": 87926,
+        "electorates": 1,
+        "list": 4
+      },
+      "United": {
+        "party": 11065,
+        "electorates": 1
+      },
+      "Christian Heritage New Zealand": {
+        "party": 49154
+      },
+      "Future New Zealand": {
+        "party": 23033
+      },
+      "Legalise Cannabis": {
+        "party": 22687
+      },
+      "Libertarianz": {
+        "party": 5949
+      },
+      "Mana Māori": {
+        "party": 5190
+      },
+      "Mauri Pacific": {
+        "party": 4008
+      },
+      "Animals First": {
+        "party": 3244
+      },
+      "McGillicuddy Serious Party": {
+        "party": 3191
+      },
+      "South Island Party": {
+        "party": 2912
+      },
+      "Natural Law": {
+        "party": 1712
+      },
+      "One New Zealand": {
+        "party": 1311
+      },
+      "NMP": {
+        "party": 936
+      },
+      "Freedom Movement": {
+        "party": 454
+      },
+      "People's Choice": {
+        "party": 387
+      },
+      "Republican Party": {
+        "party": 292
+      }
+    },
+    "informal": 19887,
+    "disallowedSpecial": 41884
+  },
+  "2002": {
+    "date": "27/07/2002",
+    "parliamentNumber": 47,
+    "wikiSlug": "New_Zealand_general_election,_2002",
+    "registered": 2670030,
+    "results": {
+      "Labour": {
+        "party": 838219,
+        "electorates": 45,
+        "list": 7
+      },
+      "National": {
+        "party": 425310,
+        "electorates": 21,
+        "list": 6
+      },
+      "NZ First": {
+        "party": 210912,
+        "electorates": 1,
+        "list": 12
+      },
+      "ACT": {
+        "party": 145078,
+        "electorates": 0,
+        "list": 9
+      },
+      "Green": {
+        "party": 142250,
+        "electorates": 0,
+        "list": 9
+      },
+      "United Future": {
+        "party": 135918,
+        "electorates": 1,
+        "list": 7
+      },
+      "Progressive": {
+        "party": 34542,
+        "electorate": 1,
+        "list": 1
+      },
+      "Christian Heritage": {
+        "party": 27492
+      },
+      "Outdoor Recreation": {
+        "party": 25985
+      },
+      "Alliance": {
+        "party": 25888
+      },
+      "Legalise Cannabis": {
+        "party": 12987
+      },
+      "Mana Māori": {
+        "party": 4980
+      },
+      "One New Zealand": {
+        "party": 1782
+      },
+      "NMP": {
+        "party": 274
+      }
+    },
+    "informal": 8631,
+    "disallowedSpecial": 15156
+  }
+}
