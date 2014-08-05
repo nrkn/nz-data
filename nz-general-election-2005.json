@@ -1,0 +1,85 @@
+{
+  "2005": {
+    "date": "17/09/2005",
+    "parliamentNumber": 48,
+    "wikiSlug": "New_Zealand_general_election,_2005",
+    "registered": 2847262,
+    "results": {
+      "Labour": {
+        "party": 935319,
+        "electorates": 31,
+        "list": 19
+      },
+      "National": {
+        "party": 889813,
+        "electorates": 31,
+        "list": 17
+      },
+      "NZ First": {
+        "party": 130115,
+        "electorates": 0,
+        "list": 7
+      },
+      "Green": {
+        "party": 120521,
+        "electorates": 0,
+        "list": 6
+      },
+      "Māori": {
+        "party": 48263,
+        "electorates": 4,
+        "list": 0
+      },
+      "United Future": {
+        "party": 60860,
+        "electorates": 1,
+        "list": 2
+      },
+      "ACT": {
+        "party": 34469,
+        "electorates": 1,
+        "list": 1
+      },
+      "Progressive": {
+        "party": 26441,
+        "electorate": 1,
+        "list": 0
+      },
+      "Destiny": {
+        "party": 14210
+      },
+      "Legalise Cannabis": {
+        "party": 5748
+      },
+      "Christian Heritage New Zealand": {
+        "party": 2821
+      },
+      "Alliance": {
+        "party": 1641
+      },
+      "Family Rights": {
+        "party": 1178
+      },
+      "Democrats for Social Credit": {
+        "party": 1079
+      },
+      "Libertarianz": {
+        "party": 946
+      },
+      "Direct Democracy": {
+        "party": 782
+      },
+      "99 MP Party": {
+        "party": 601
+      },
+      "One New Zealand": {
+        "party": 478
+      },
+      "Republic of NZ": {
+        "party": 344
+      }
+    },
+    "informal": 10561,
+    "disallowedSpecial": 17815
+  }
+}
