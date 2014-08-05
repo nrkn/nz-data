@@ -31,7 +31,7 @@ All I have so far is the 'minimum possible to be useful' election data in .json 
 If you want to add some election result data, you can get it from Wikipedia:
 - 1996 (done)
 - 1999 (done)
-- [2002](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2002)
+- [2002](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2002) (in progress)
 - [2005](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2005)
 - [2008](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008)
 - [2011](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2011)
