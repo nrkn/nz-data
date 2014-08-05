@@ -24,6 +24,16 @@ You can help by either getting in touch with me via [email](mailto:nrkn.com@gmai
 
 All I have so far is the 'minimum possible to be useful' election data in .json format for the first four MMP elections: 1996, 1999, 2002, 2005; and some tools to concatenate those into a single .json file or convert them to .csv
 
+##Resources & Data Sources
+
+- [Wikipedia](http://en.wikipedia.org)
+- [Stats NZ](http://www.stats.govt.nz/)
+- [data.govt.nz](https://data.govt.nz/)
+- [ict.govt.nz](http://ict.govt.nz/)
+- [Dept of Internal Affairs data](http://www.dia.govt.nz/Data-and-statistics)
+- [Open NZ](https://wiki.open.org.nz/wiki/display/main/Welcome)
+- [University of Auckland database links to New Zealand statistical data](https://www.library.auckland.ac.nz/databases/record/?record=NZStats)
+
 ##It would be really nice to get pull requests with:
 
 - More years, if I'm working on one I'll commit it as an empty file before starting so you know not to bother.
