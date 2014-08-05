@@ -1,21 +1,18 @@
-#NZ data visualisation thing
+#NZ data
 
-I think it would be interesting to make an open source web app for visualising NZ statistical data, particularly election and polling data.
+I was thinking that it would be useful to have a good source of statistical data about NZ in one place, freely available to anybody who'd like to use it for infographics, web applications or anything else it might be useful for.
 
-Probably with [d3](http://d3js.org/)
+My experience of trying to find data from elections, census etc. is that it's spread across a number of different government websites, can be hard to find, poorly described, in proprietary formats, scanned paper documents that aren't readable without error prone OCR etc.
 
-Any ideas, contributions, corrections etc. welcomed. 
+I'm trying to slowly collate some of these things in a more useful and ubiquitous form, .json, which can then be either used directly in software or translated to other useful formats such as csv or xml. 
 
-##Plan
+I'm particularly interested in:
 
-A visualisation of a horizontally panning timeline divided into months, starting with the first MMP election in 1996: 
+- Election results
+- Election polling
+- Census data
 
-1. If it was the month the election was held in, the result of the general election in a data box with various stats.
-2. If not, poll data for that month where available, otherwise interpolated between the last available poll or election result and the next available. 
-
-![](timeline.png)
-
-I don't have a plan. I'm just going to pick away at it when I have time. 
+I'm just going to pick away at it when I have time, so contributions would be extremely welcome, either of normalised data in a useful format such as json, xml or csv, or pointers to usable data on the web.  
 
 ##Currently contains
 
@@ -25,7 +22,7 @@ All I have so far is the 'minimum possible to be useful' election data in .json 
 
 - More years, if I'm working on one I'll commit it as an empty file before starting so you know not to bother.
 - Candidate and electorate seat data for each year
-- Census data (so you can compare how many people 18+ and how many people enrolled etc.)
+- Census data (ie. how many people were 18+ and therefore eligible but didn't enrol)
 - Opinion poll results 
 
 If you want to add some election result data, you can get it from Wikipedia:
@@ -63,6 +60,26 @@ If you want to add some election result data, you can get it from Wikipedia:
   }
 }
 ```
+
+##Possible uses
+
+###NZ data visualisation thing
+
+I think it would be interesting to make an open source web app for visualising NZ statistical data, particularly election and polling data.
+
+Probably with [d3](http://d3js.org/)
+
+Any ideas, contributions, corrections etc. welcomed. 
+
+####Plan
+
+A visualisation of a horizontally panning timeline divided into months, starting with the first MMP election in 1996: 
+
+1. If it was the month the election was held in, the result of the general election in a data box with various stats.
+2. If not, poll data for that month where available, otherwise interpolated between the last available poll or election result and the next available. 
+
+![](timeline.png)
+
 
 ##License
 The MIT License (MIT)
