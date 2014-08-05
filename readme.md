@@ -29,6 +29,7 @@ You can help by either getting in touch with me via [email](mailto:nrkn.com@gmai
 - [1999](https://github.com/nrkn/nz-data/blob/master/nz-general-election-1999.json)
 - [2002](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2002.json)
 - [2005](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2005.json)
+- [2008](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2008.json)
 - [1996-2005 Combined](https://github.com/nrkn/nz-data/blob/master/nz-general-elections.json)
 
 ####CSV format
@@ -36,6 +37,7 @@ You can help by either getting in touch with me via [email](mailto:nrkn.com@gmai
 - [1999](https://github.com/nrkn/nz-data/blob/master/nz-general-election-1999-results.csv)
 - [2002](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2002-results.csv)
 - [2005](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2005-results.csv)
+- [2008](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2008-results.csv)
 - [1996-2005 Combined (metadata only)](https://github.com/nrkn/nz-data/blob/master/nz-general-elections-meta.csv)
 
 ##Resources & Data Sources
@@ -60,7 +62,7 @@ If you want to add some election result data, you can get it from Wikipedia:
 - [1999](http://en.wikipedia.org/wiki/New_Zealand_general_election,_1999) (done)
 - [2002](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2002) (done)
 - [2005](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2005) (done)
-- [2008](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008)
+- [2008](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008) (done)
 - [2011](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2011)
 
 ##Example:
