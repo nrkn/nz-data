@@ -14,6 +14,8 @@ I'm particularly interested in:
 
 I'm just going to pick away at it when I have time, so contributions would be extremely welcome, either of normalised data in a useful format such as json, xml or csv, or pointers to usable data on the web.  
 
+You can help by either getting in touch with me via [email](mailto:nrkn.com@gmail.com) or sending me a pull request on Github.
+
 ##Currently contains
 
 All I have so far is the 'minimum possible to be useful' election data in .json format for the first four MMP elections: 1996, 1999, 2002, 2005; and some tools to concatenate those into a single .json file or convert them to .csv
