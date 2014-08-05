@@ -1,12 +1,68 @@
 {
   "2002": {    
-    "date": "",
+    "date": "27/07/2002",
     "parliamentNumber": 47,
     "wikiSlug": "New_Zealand_general_election,_2002",
-    "registered": 0,
+    "registered": 2670030,
     "results": {
+      "Labour": {
+        "party": 838219,
+        "electorates": 45,
+        "list": 7
+      },
+      "National": {
+        "party": 425310,
+        "electorates": 21,
+        "list": 6
+      },
+      "NZ First": {
+        "party": 210912,
+        "electorates": 1,
+        "list": 12
+      },
+      "ACT": {
+        "party": 145078,
+        "electorates": 0,
+        "list": 9
+      },
+      "Green": {
+        "party": 142250,
+        "electorates": 0,
+        "list": 9
+      },
+      "United Future": {
+        "party": 135918,
+        "electorates": 1,
+        "list": 7
+      },
+      "Progressive": {
+        "party": 34542,
+        "electorate": 1,
+        "list": 1
+      },
+      "Christian Heritage": {
+        "party": 27492
+      },
+      "Outdoor Recreation": {
+        "party": 25985
+      },      
+      "Alliance": {
+        "party": 25888
+      },
+      "Legalise Cannabis": {
+        "party": 12987
+      },
+      "Mana Māori": {
+        "party": 4980
+      },
+      "One New Zealand": {
+        "party": 1782
+      },
+      "NMP": {
+        "party": 274
+      }
     },
-    "informal": 0,
-    "disallowedSpecial": 0
+    "informal": 8631,
+    "disallowedSpecial": 15156
   }
 }

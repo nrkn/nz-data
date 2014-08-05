@@ -29,9 +29,9 @@ All I have so far is the 'minimum possible to be useful' election data in .json 
 - Opinion poll results 
 
 If you want to add some election result data, you can get it from Wikipedia:
-- 1996 (done)
-- 1999 (done)
-- [2002](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2002) (in progress)
+- [1996](http://en.wikipedia.org/wiki/New_Zealand_general_election,_1996) (done)
+- [1999](http://en.wikipedia.org/wiki/New_Zealand_general_election,_1999) (done)
+- [2002](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2002) (done)
 - [2005](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2005)
 - [2008](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008)
 - [2011](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2011)

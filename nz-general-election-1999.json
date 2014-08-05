@@ -5,39 +5,39 @@
     "wikiSlug": "New_Zealand_general_election,_1999",
     "registered": 2509365,
     "results": {
-      "National": {
-        "party": 629932,
-        "electorates": 22,
-        "list": 17
-      },
       "Labour": {
         "party": 800199,
         "electorates": 41,
         "list": 8
       },
-      "NZ First": {
-        "party": 87926,
-        "electorates": 1,
-        "list": 4
+      "National": {
+        "party": 629932,
+        "electorates": 22,
+        "list": 17
       },
       "Alliance": {
         "party": 159859,
         "electorates": 1,
         "list": 9
       },
-      "Act": {
+      "ACT": {
         "party": 145493,
         "electorates": 0,
         "list": 9
-      },
-      "United": {
-        "party": 11065,
-        "electorates": 1
       },
       "Green": {
         "party": 106560,
         "electorates": 1,
         "list": 6
+      },
+      "NZ First": {
+        "party": 87926,
+        "electorates": 1,
+        "list": 4
+      },
+      "United": {
+        "party": 11065,
+        "electorates": 1
       },
       "Christian Heritage New Zealand": {
         "party": 49154
