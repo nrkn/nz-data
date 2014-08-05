@@ -46,7 +46,7 @@ function writeMetaCsv( yearData ){
     csv += [ parseInt( year, 10 ) ].concat( values ).join( ',' );
   });
   
-  fs.writeFileSync( 'nz-general-election-meta.csv', csv );
+  fs.writeFileSync( 'nz-general-elections-meta.csv', csv );
 }
 
 function writeResultCsv( year, results ){

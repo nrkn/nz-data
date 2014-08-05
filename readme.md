@@ -20,9 +20,33 @@ I'm just going to pick away at it when I have time, so contributions would be ex
 
 You can help by either getting in touch with me via [email](mailto:nrkn.com@gmail.com) or sending me a pull request on Github.
 
-##Currently contains
+##Currently contains 
 
-All I have so far is the 'minimum possible to be useful' election data in .json format for the first five MMP elections: 1996, 1999, 2002, 2005, 2008; and some tools to concatenate those into a single .json file or convert them to .csv
+###MMP Elections
+
+####JSON format
+- [1996](https://github.com/nrkn/nz-data/blob/master/nz-general-election-1996.json)
+- [1999](https://github.com/nrkn/nz-data/blob/master/nz-general-election-1999.json)
+- [2002](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2002.json)
+- [2005](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2005.json)
+- [1996-2005 Combined](https://github.com/nrkn/nz-data/blob/master/nz-general-elections.json)
+
+####CSV format
+- [1996](https://github.com/nrkn/nz-data/blob/master/nz-general-election-1996-results.csv)
+- [1999](https://github.com/nrkn/nz-data/blob/master/nz-general-election-1999-results.csv)
+- [2002](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2002-results.csv)
+- [2005](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2005-results.csv)
+- [1996-2005 Combined (metadata only)](https://github.com/nrkn/nz-data/blob/master/nz-general-elections-meta.csv)
+
+##Resources & Data Sources
+
+- [Wikipedia](http://en.wikipedia.org)
+- [Stats NZ](http://www.stats.govt.nz/)
+- [data.govt.nz](https://data.govt.nz/)
+- [ict.govt.nz](http://ict.govt.nz/)
+- [Dept of Internal Affairs data](http://www.dia.govt.nz/Data-and-statistics)
+- [Open NZ](https://wiki.open.org.nz/wiki/display/main/Welcome)
+- [University of Auckland database links to New Zealand statistical data](https://www.library.auckland.ac.nz/databases/record/?record=NZStats)
 
 ##It would be really nice to get pull requests with:
 
@@ -88,6 +112,11 @@ A visualisation of a horizontally panning timeline divided into months, starting
 
 
 ##License
+
+As far as I understand it all of the data is already in the public domain. 
+
+The software (tool, utilities etc.) are licensed under: 
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Nik Coughlin
