@@ -14,11 +14,7 @@ To start with:
 - Election polling
 - Census data
 
-<<<<<<< HEAD
 We're just going to pick away at it when we have time, so contributions would be extremely welcome, either of normalised data in a useful format such as json, xml or csv, or pointers to usable data on the web.  
-=======
-I'm just going to pick away at it when I have time, so contributions would be extremely welcome, either of normalised data in a useful format such as json, xml or csv, or pointers to usable data on the web.
->>>>>>> origin/master
 
 You can help by either getting in touch with me via [email](mailto:nrkn.com@gmail.com) or sending me a pull request on Github.
 
