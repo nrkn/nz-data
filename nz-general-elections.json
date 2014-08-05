@@ -237,9 +237,7 @@
     },
     "informal": 8631,
     "disallowedSpecial": 15156
-  }
-}
-{
+  },
   "2005": {
     "date": "17/09/2005",
     "parliamentNumber": 48,
@@ -247,77 +245,77 @@
     "registered": 2847262,
     "results": {
       "Labour": {
-        "party": 935319,
-        "electorates": 31,
-        "list": 19
+        "partyVote": 935319,
+        "electorateSeats": 31,
+        "listSeats": 19
       },
       "National": {
-        "party": 889813,
-        "electorates": 31,
-        "list": 17
+        "partyVote": 889813,
+        "electorateSeats": 31,
+        "listSeats": 17
       },
       "NZ First": {
-        "party": 130115,
-        "electorates": 0,
-        "list": 7
+        "partyVote": 130115,
+        "electorateSeats": 0,
+        "listSeats": 7
       },
       "Green": {
-        "party": 120521,
-        "electorates": 0,
-        "list": 6
+        "partyVote": 120521,
+        "electorateSeats": 0,
+        "listSeats": 6
       },
       "Māori": {
-        "party": 48263,
-        "electorates": 4,
-        "list": 0
+        "partyVote": 48263,
+        "electorateSeats": 4,
+        "listSeats": 0
       },
       "United Future": {
-        "party": 60860,
-        "electorates": 1,
-        "list": 2
+        "partyVote": 60860,
+        "electorateSeats": 1,
+        "listSeats": 2
       },
       "ACT": {
-        "party": 34469,
-        "electorates": 1,
-        "list": 1
+        "partyVote": 34469,
+        "electorateSeats": 1,
+        "listSeats": 1
       },
       "Progressive": {
-        "party": 26441,
+        "partyVote": 26441,
         "electorate": 1,
-        "list": 0
+        "listSeats": 0
       },
       "Destiny": {
-        "party": 14210
+        "partyVote": 14210
       },
       "Legalise Cannabis": {
-        "party": 5748
+        "partyVote": 5748
       },
       "Christian Heritage New Zealand": {
-        "party": 2821
+        "partyVote": 2821
       },
       "Alliance": {
-        "party": 1641
+        "partyVote": 1641
       },
       "Family Rights": {
-        "party": 1178
+        "partyVote": 1178
       },
       "Democrats for Social Credit": {
-        "party": 1079
+        "partyVote": 1079
       },
       "Libertarianz": {
-        "party": 946
+        "partyVote": 946
       },
       "Direct Democracy": {
-        "party": 782
+        "partyVote": 782
       },
       "99 MP Party": {
-        "party": 601
+        "partyVote": 601
       },
       "One New Zealand": {
-        "party": 478
+        "partyVote": 478
       },
       "Republic of NZ": {
-        "party": 344
+        "partyVote": 344
       }
     },
     "informal": 10561,
