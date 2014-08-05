@@ -54,7 +54,7 @@ You can help by either getting in touch with me via [email](mailto:nrkn.com@gmai
 
 - Candidate and electorate seat data for each year
 - Census data (ie. how many people were 18+ and therefore eligible but didn't enrol)
-- Opinion poll results 
+- Opinion poll results
 
 The next thing we'll be doing is adding the detailed voting data, from:
 
@@ -68,7 +68,7 @@ Perhaps they are available elsewhere?
 
 ```javascript
 {
-  "1996": {    
+  "1996": {
     "date": "12/10/1996",
     "parliamentNumber": 45,
     "wikiSlug": "New_Zealand_general_election,_1996",
@@ -100,14 +100,14 @@ I think it would be interesting to make an open source web app for visualising N
 
 Probably with [d3](http://d3js.org/)
 
-Any ideas, contributions, corrections etc. welcomed. 
+Any ideas, contributions, corrections etc. welcomed.
 
 ####Plan
 
-A visualisation of a horizontally panning timeline divided into months, starting with the first MMP election in 1996: 
+A visualisation of a horizontally panning timeline divided into months, starting with the first MMP election in 1996:
 
 1. If it was the month the election was held in, the result of the general election in a data box with various stats.
-2. If not, poll data for that month where available, otherwise interpolated between the last available poll or election result and the next available. 
+2. If not, poll data for that month where available, otherwise interpolated between the last available poll or election result and the next available.
 
 ![](timeline.png)
 
