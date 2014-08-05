@@ -29,14 +29,16 @@ You can help by either getting in touch with me via [email](mailto:nrkn.com@gmai
 - [1999](https://github.com/nrkn/nz-data/blob/master/nz-general-election-1999.json)
 - [2002](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2002.json)
 - [2005](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2005.json)
-- [1996-2005 Combined](https://github.com/nrkn/nz-data/blob/master/nz-general-elections.json)
+- [2008](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2008.json)
+- [1996-2008 Combined](https://github.com/nrkn/nz-data/blob/master/nz-general-elections.json)
 
 ####CSV format
 - [1996](https://github.com/nrkn/nz-data/blob/master/nz-general-election-1996-results.csv)
 - [1999](https://github.com/nrkn/nz-data/blob/master/nz-general-election-1999-results.csv)
 - [2002](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2002-results.csv)
 - [2005](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2005-results.csv)
-- [1996-2005 Combined (metadata only)](https://github.com/nrkn/nz-data/blob/master/nz-general-elections-meta.csv)
+- [2008](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2008-results.csv)
+- [1996-2008 Combined (metadata only)](https://github.com/nrkn/nz-data/blob/master/nz-general-elections-meta.csv)
 
 ##Resources & Data Sources
 
