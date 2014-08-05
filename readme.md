@@ -20,7 +20,7 @@ I'm just going to pick away at it when I have time, so contributions would be ex
 
 You can help by either getting in touch with me via [email](mailto:nrkn.com@gmail.com) or sending me a pull request on Github.
 
-##Currently contains
+##Currently contains 
 
 ###MMP Elections
 
@@ -36,7 +36,7 @@ You can help by either getting in touch with me via [email](mailto:nrkn.com@gmai
 - [1999](https://github.com/nrkn/nz-data/blob/master/nz-general-election-1999-results.csv)
 - [2002](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2002-results.csv)
 - [2005](https://github.com/nrkn/nz-data/blob/master/nz-general-election-2005-results.csv)
-- [1996-2005 Combined (metadata only)](https://github.com/nrkn/nz-data/blob/master/nz-general-election-meta.csv)
+- [1996-2005 Combined (metadata only)](https://github.com/nrkn/nz-data/blob/master/nz-general-elections-meta.csv)
 
 ##Resources & Data Sources
 
