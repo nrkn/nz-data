@@ -16,34 +16,34 @@ I'm particularly interested in:
 - Election polling
 - Census data
 
-I'm just going to pick away at it when I have time, so contributions would be extremely welcome, either of normalised data in a useful format such as json, xml or csv, or pointers to usable data on the web.  
+I'm just going to pick away at it when I have time, so contributions would be extremely welcome, either of normalised data in a useful format such as json, xml or csv, or pointers to usable data on the web.
 
 You can help by either getting in touch with me via [email](mailto:nrkn.com@gmail.com) or sending me a pull request on Github.
 
 ##Currently contains
 
-All I have so far is the 'minimum possible to be useful' election data in .json format for the first four MMP elections: 1996, 1999, 2002, 2005; and some tools to concatenate those into a single .json file or convert them to .csv
+All I have so far is the 'minimum possible to be useful' election data in .json format for the first five MMP elections: 1996, 1999, 2002, 2005, 2008; and some tools to concatenate those into a single .json file or convert them to .csv
 
 ##It would be really nice to get pull requests with:
 
 - More years, if I'm working on one I'll commit it as an empty file before starting so you know not to bother.
 - Candidate and electorate seat data for each year
 - Census data (ie. how many people were 18+ and therefore eligible but didn't enrol)
-- Opinion poll results 
+- Opinion poll results
 
 If you want to add some election result data, you can get it from Wikipedia:
 - [1996](http://en.wikipedia.org/wiki/New_Zealand_general_election,_1996) (done)
 - [1999](http://en.wikipedia.org/wiki/New_Zealand_general_election,_1999) (done)
 - [2002](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2002) (done)
 - [2005](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2005) (done)
-- [2008](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008)
+- [2008](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2008) (done)
 - [2011](http://en.wikipedia.org/wiki/New_Zealand_general_election,_2011)
 
 ##Example:
 
 ```javascript
 {
-  "1996": {    
+  "1996": {
     "date": "12/10/1996",
     "parliamentNumber": 45,
     "wikiSlug": "New_Zealand_general_election,_1996",
@@ -75,14 +75,14 @@ I think it would be interesting to make an open source web app for visualising N
 
 Probably with [d3](http://d3js.org/)
 
-Any ideas, contributions, corrections etc. welcomed. 
+Any ideas, contributions, corrections etc. welcomed.
 
 ####Plan
 
-A visualisation of a horizontally panning timeline divided into months, starting with the first MMP election in 1996: 
+A visualisation of a horizontally panning timeline divided into months, starting with the first MMP election in 1996:
 
 1. If it was the month the election was held in, the result of the general election in a data box with various stats.
-2. If not, poll data for that month where available, otherwise interpolated between the last available poll or election result and the next available. 
+2. If not, poll data for that month where available, otherwise interpolated between the last available poll or election result and the next available.
 
 ![](timeline.png)
 
