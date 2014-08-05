@@ -98,6 +98,11 @@ A visualisation of a horizontally panning timeline divided into months, starting
 
 
 ##License
+
+As far as I understand it all of the data is already in the public domain. 
+
+The software (tool, utilities etc.) are licensed under: 
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Nik Coughlin
