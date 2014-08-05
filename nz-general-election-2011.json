@@ -1,0 +1,68 @@
+{
+  "2011": {
+    "date": "26/11/2011",
+    "parliamentNumber": 50,
+    "wikiSlug": "New_Zealand_general_election,_2011",
+    "registered": 3070847,
+    "results": {
+      "National": {
+        "partyVote": 1058636,
+        "electorateSeats": 42,
+        "listSeats": 17
+      },
+      "Labour": {
+        "partyVote": 614937,
+        "electorateSeats": 22,
+        "listSeats": 12
+      },
+      "Green": {
+        "partyVote": 247372,
+        "electorateSeats": 0,
+        "listSeats": 14
+      },
+      "NZ First": {
+        "partyVote": 147544,
+        "electorateSeats": 0,
+        "listSeats": 8
+      },
+      "Māori": {
+        "partyVote": 31982,
+        "electorateSeats": 3,
+        "listSeats": 0
+      },
+      "Mana": {
+        "partyVote": 24168,
+        "electorateSeats": 1,
+        "listSeats": 0
+      },
+      "ACT": {
+        "partyVote": 23889,
+        "electorateSeats": 1,
+        "listSeats": 0
+      },
+      "United Future": {
+        "partyVote": 13443,
+        "electorateSeats": 1,
+        "listSeats": 0
+      },
+      "Conservative": {
+        "partyVote": 59237
+      },
+      "Aotearoa Legalise Cannabis": {
+        "partyVote": 11738
+      },
+      "Democrats for Social Credit": {
+        "partyVote": 1714
+      },
+      "Libertarianz": {
+        "partyVote": 1595
+      },
+      "Alliance": {
+        "partyVote": 1209
+      }
+    },
+    "informal": 19872,
+    "disallowedSpecial": 21263,
+    "disallowedOrdinary": 390
+  }
+}
