@@ -1,0 +1,39 @@
+{
+  "type": "object",
+  "properties": {
+    "year": {
+      "type": "integer"
+    },
+    "date": {
+      "type": "string"
+    },
+    "parliamentNumber": {
+      "type": "integer"
+    },
+    "wikiSlug": {
+      "type": "string"
+    },
+    "registered": {
+      "type": "integer"
+    },
+    "informal": {
+      "type": "integer"
+    },
+    "disallowedSpecial": {
+      "type": "integer"
+    },
+    "disallowedOrdinary": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "year",
+    "date",
+    "parliamentNumber",
+    "wikiSlug",
+    "registered",
+    "informal",
+    "disallowedSpecial",
+    "disallowedOrdinary"
+  ]
+}

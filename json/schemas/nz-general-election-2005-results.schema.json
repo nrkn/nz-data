@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "properties": {
+    "party": {
+      "type": "string"
+    },
+    "partyVote": {
+      "type": "integer"
+    },
+    "electorateSeats": {
+      "type": "integer"
+    },
+    "listSeats": {
+      "type": "integer"
+    },
+    "electorate": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "party",
+    "partyVote",
+    "electorateSeats",
+    "listSeats",
+    "electorate"
+  ]
+}

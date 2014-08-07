@@ -1,0 +1,62 @@
+[
+  {
+    "year": 1996,
+    "date": "12/10/1996",
+    "parliamentNumber": 45,
+    "wikiSlug": "New_Zealand_general_election,_1996",
+    "registered": 2418587,
+    "informal": 8183,
+    "disallowedSpecial": 54633,
+    "disallowedOrdinary": 0
+  },
+  {
+    "year": 1999,
+    "date": "27/11/1999",
+    "parliamentNumber": 46,
+    "wikiSlug": "New_Zealand_general_election,_1999",
+    "registered": 2509365,
+    "informal": 19887,
+    "disallowedSpecial": 41884,
+    "disallowedOrdinary": 0
+  },
+  {
+    "year": 2002,
+    "date": "27/07/2002",
+    "parliamentNumber": 47,
+    "wikiSlug": "New_Zealand_general_election,_2002",
+    "registered": 2670030,
+    "informal": 8631,
+    "disallowedSpecial": 15156,
+    "disallowedOrdinary": 0
+  },
+  {
+    "year": 2005,
+    "date": "17/09/2005",
+    "parliamentNumber": 48,
+    "wikiSlug": "New_Zealand_general_election,_2005",
+    "registered": 2847262,
+    "informal": 10561,
+    "disallowedSpecial": 17815,
+    "disallowedOrdinary": 0
+  },
+  {
+    "year": 2008,
+    "date": "08/11/2008",
+    "parliamentNumber": 49,
+    "wikiSlug": "New_Zealand_general_election,_2008",
+    "registered": 2964196,
+    "informal": 11970,
+    "disallowedSpecial": 19517,
+    "disallowedOrdinary": 427
+  },
+  {
+    "year": 2011,
+    "date": "26/11/2011",
+    "parliamentNumber": 50,
+    "wikiSlug": "New_Zealand_general_election,_2011",
+    "registered": 3070847,
+    "informal": 19872,
+    "disallowedSpecial": 21263,
+    "disallowedOrdinary": 390
+  }
+]

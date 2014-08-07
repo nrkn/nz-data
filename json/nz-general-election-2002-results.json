@@ -1,0 +1,86 @@
+[
+  {
+    "party": "Labour",
+    "partyVote": 838219,
+    "electorateSeats": 45,
+    "listSeats": 7
+  },
+  {
+    "party": "National",
+    "partyVote": 425310,
+    "electorateSeats": 21,
+    "listSeats": 6
+  },
+  {
+    "party": "NZ First",
+    "partyVote": 210912,
+    "electorateSeats": 1,
+    "listSeats": 12
+  },
+  {
+    "party": "ACT",
+    "partyVote": 145078,
+    "electorateSeats": 0,
+    "listSeats": 9
+  },
+  {
+    "party": "Green",
+    "partyVote": 142250,
+    "electorateSeats": 0,
+    "listSeats": 9
+  },
+  {
+    "party": "United Future",
+    "partyVote": 135918,
+    "electorateSeats": 1,
+    "listSeats": 7
+  },
+  {
+    "party": "Progressive",
+    "partyVote": 34542,
+    "electorateSeats": 1,
+    "listSeats": 1
+  },
+  {
+    "party": "Christian Heritage",
+    "partyVote": 27492,
+    "electorateSeats": 0,
+    "listSeats": 0
+  },
+  {
+    "party": "Outdoor Recreation",
+    "partyVote": 25985,
+    "electorateSeats": 0,
+    "listSeats": 0
+  },
+  {
+    "party": "Alliance",
+    "partyVote": 25888,
+    "electorateSeats": 0,
+    "listSeats": 0
+  },
+  {
+    "party": "Legalise Cannabis",
+    "partyVote": 12987,
+    "electorateSeats": 0,
+    "listSeats": 0
+  },
+  {
+    "party": "Mana Māori",
+    "partyVote": 4980,
+    "electorateSeats": 0,
+    "listSeats": 0
+  },
+  {
+    "party": "One New Zealand",
+    "partyVote": 1782,
+    "electorateSeats": 0,
+    "listSeats": 0
+  },
+  {
+    "party": "NMP",
+    "partyVote": 274,
+    "electorateSeats": 0,
+    "listSeats": 0
+  }
+]

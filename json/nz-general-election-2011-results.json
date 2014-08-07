@@ -1,0 +1,80 @@
+[
+  {
+    "party": "National",
+    "partyVote": 1058636,
+    "electorateSeats": 42,
+    "listSeats": 17
+  },
+  {
+    "party": "Labour",
+    "partyVote": 614937,
+    "electorateSeats": 22,
+    "listSeats": 12
+  },
+  {
+    "party": "Green",
+    "partyVote": 247372,
+    "electorateSeats": 0,
+    "listSeats": 14
+  },
+  {
+    "party": "NZ First",
+    "partyVote": 147544,
+    "electorateSeats": 0,
+    "listSeats": 8
+  },
+  {
+    "party": "Māori",
+    "partyVote": 31982,
+    "electorateSeats": 3,
+    "listSeats": 0
+  },
+  {
+    "party": "Mana",
+    "partyVote": 24168,
+    "electorateSeats": 1,
+    "listSeats": 0
+  },
+  {
+    "party": "ACT",
+    "partyVote": 23889,
+    "electorateSeats": 1,
+    "listSeats": 0
+  },
+  {
+    "party": "United Future",
+    "partyVote": 13443,
+    "electorateSeats": 1,
+    "listSeats": 0
+  },
+  {
+    "party": "Conservative",
+    "partyVote": 59237,
+    "electorateSeats": 0,
+    "listSeats": 0
+  },
+  {
+    "party": "Aotearoa Legalise Cannabis",
+    "partyVote": 11738,
+    "electorateSeats": 0,
+    "listSeats": 0
+  },
+  {
+    "party": "Democrats for Social Credit",
+    "partyVote": 1714,
+    "electorateSeats": 0,
+    "listSeats": 0
+  },
+  {
+    "party": "Libertarianz",
+    "partyVote": 1595,
+    "electorateSeats": 0,
+    "listSeats": 0
+  },
+  {
+    "party": "Alliance",
+    "partyVote": 1209,
+    "electorateSeats": 0,
+    "listSeats": 0
+  }
+]

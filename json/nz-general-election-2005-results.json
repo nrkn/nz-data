@@ -1,0 +1,135 @@
+[
+  {
+    "party": "Labour",
+    "partyVote": 935319,
+    "electorateSeats": 31,
+    "listSeats": 19,
+    "electorate": 0
+  },
+  {
+    "party": "National",
+    "partyVote": 889813,
+    "electorateSeats": 31,
+    "listSeats": 17,
+    "electorate": 0
+  },
+  {
+    "party": "NZ First",
+    "partyVote": 130115,
+    "electorateSeats": 0,
+    "listSeats": 7,
+    "electorate": 0
+  },
+  {
+    "party": "Green",
+    "partyVote": 120521,
+    "electorateSeats": 0,
+    "listSeats": 6,
+    "electorate": 0
+  },
+  {
+    "party": "Māori",
+    "partyVote": 48263,
+    "electorateSeats": 4,
+    "listSeats": 0,
+    "electorate": 0
+  },
+  {
+    "party": "United Future",
+    "partyVote": 60860,
+    "electorateSeats": 1,
+    "listSeats": 2,
+    "electorate": 0
+  },
+  {
+    "party": "ACT",
+    "partyVote": 34469,
+    "electorateSeats": 1,
+    "listSeats": 1,
+    "electorate": 0
+  },
+  {
+    "party": "Progressive",
+    "partyVote": 26441,
+    "electorateSeats": 0,
+    "listSeats": 0,
+    "electorate": 1
+  },
+  {
+    "party": "Destiny",
+    "partyVote": 14210,
+    "electorateSeats": 0,
+    "listSeats": 0,
+    "electorate": 0
+  },
+  {
+    "party": "Legalise Cannabis",
+    "partyVote": 5748,
+    "electorateSeats": 0,
+    "listSeats": 0,
+    "electorate": 0
+  },
+  {
+    "party": "Christian Heritage New Zealand",
+    "partyVote": 2821,
+    "electorateSeats": 0,
+    "listSeats": 0,
+    "electorate": 0
+  },
+  {
+    "party": "Alliance",
+    "partyVote": 1641,
+    "electorateSeats": 0,
+    "listSeats": 0,
+    "electorate": 0
+  },
+  {
+    "party": "Family Rights",
+    "partyVote": 1178,
+    "electorateSeats": 0,
+    "listSeats": 0,
+    "electorate": 0
+  },
+  {
+    "party": "Democrats for Social Credit",
+    "partyVote": 1079,
+    "electorateSeats": 0,
+    "listSeats": 0,
+    "electorate": 0
+  },
+  {
+    "party": "Libertarianz",
+    "partyVote": 946,
+    "electorateSeats": 0,
+    "listSeats": 0,
+    "electorate": 0
+  },
+  {
+    "party": "Direct Democracy",
+    "partyVote": 782,
+    "electorateSeats": 0,
+    "listSeats": 0,
+    "electorate": 0
+  },
+  {
+    "party": "99 MP Party",
+    "partyVote": 601,
+    "electorateSeats": 0,
+    "listSeats": 0,
+    "electorate": 0
+  },
+  {
+    "party": "One New Zealand",
+    "partyVote": 478,
+    "electorateSeats": 0,
+    "listSeats": 0,
+    "electorate": 0
+  },
+  {
+    "party": "Republic of NZ",
+    "partyVote": 344,
+    "electorateSeats": 0,
+    "listSeats": 0,
+    "electorate": 0
+  }
+]
